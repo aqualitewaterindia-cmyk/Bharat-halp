@@ -1,0 +1,7 @@
+{
+  "name": "India Helpline Pro",
+  "description": "A comprehensive directory of emergency and utility helpline numbers across India, featuring city-wise search and an AI-powered emergency assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
